@@ -1,0 +1,162 @@
+    .ffs{
+        font-family: serif;
+    }
+    .ffss{
+        font-family: sans-serif;
+    }
+.back-img{
+  background-image: url(../assets/download.jpg);
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+}
+
+
+
+.tour{
+    font-size: 65px;
+    font-weight: bold;
+  
+}
+.free{
+    font-size: 30px;
+}
+.btn button{
+    font-size: 16px;
+    letter-spacing: 7px;
+ 
+}
+
+
+.first{
+    box-sizing: border-box;
+    padding: 80px;
+}
+.welcome{
+    font-size: 40px;
+    font-weight: 900;
+}
+.faraway{
+ 
+    font-size: 18px;
+    line-height: 30px;
+    word-spacing: 4px;
+    color: lightgray;
+}
+.text{
+        text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    text-transform: uppercase;
+    line-height: 100px;
+    color: aquamarine;
+}
+.fa-play{
+        box-sizing: border-box;
+    padding: 15px;
+    border-radius: 29px;
+    border: rgb(20, 221, 171) solid;
+    color: aquamarine;
+}
+.pp{
+    /* color: dimgrey; */
+    font-size: 20px;
+    line-height: 40px;
+}
+.box-img{
+    height: 85px;
+    width: 100%;
+     
+}
+.fith-p{
+    color: lightslategrey;
+    font-size: 17px;
+}
+.recent-p{
+    font-size: 18px;
+
+        line-height: 28px;
+}
+  .card-para{
+          font-size: 17px;
+    color: darkgrey;
+    line-height: 30px;
+    }
+
+
+  .quote-card {
+         max-width: 600px;
+    padding: 20px;
+    }
+    .quote-img {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      margin-bottom: 20px;
+        border-radius: 50%;
+    }
+    .quote-text {
+      font-style: italic;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      color: #555;
+    }
+    .quote-author {
+     margin-top: 10px;
+    font-size: 17px;
+    color: #888;
+    font-style: italic;
+    }
+
+
+
+
+      .star-rating {
+      color: #84c0c6;
+      font-size: 18px;
+    }
+    .review-count {
+      color: #bfbfbf;
+      font-size: 14px;
+    }
+
+
+
+    .footer {
+      /* background: #1c1c1c; */
+      color: #fff;
+      padding: 40px 0;
+    }
+    .footer h5 {
+      color: #fff;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    .footer a {
+      color: #ccc;
+      display: block;
+      margin-bottom: 8px;
+      text-decoration: none;
+          line-height: 2;
+
+    }
+    .footer a:hover {
+      color: white;
+    }
+    .footer .form-control {
+      background: transparent;
+      border: 1px solid #ccc;
+      color: #fff;
+    }
+    .footer .form-control::placeholder {
+      color: #ccc;
+    }
+    .footer .btn {
+      background: transparent;
+      border: none;
+      color: #fff;
+    }
+    .footer .btn:hover {
+      color: #ddd;
+    }
